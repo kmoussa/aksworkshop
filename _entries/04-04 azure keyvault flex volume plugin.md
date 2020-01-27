@@ -304,5 +304,6 @@ The last command will return `"orders-password"`.
 {% endcollapsible %}
 
 > **Resources**
+>
 > - [https://kubernetes.io/docs/concepts/storage/volumes/](https://kubernetes.io/docs/concepts/storage/volumes/)
 > - [https://github.com/kubernetes/community/blob/master/contributors/devel/sig-storage/flexvolume.md](https://github.com/kubernetes/community/blob/master/contributors/devel/sig-storage/flexvolume.md)
