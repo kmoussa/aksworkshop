@@ -16,10 +16,13 @@ Normally there are two main cases when it comes to internal billing or chargebac
 2. when the customer decide to use namespaces in the same cluster to logically isolate teams and in that case Azure billing won't be able to support since it doesn't have visibility on the namespaces in each cluster and for that case in specific we will need to install Kube-cost in your cluster to enable us to view the cost spending and compute usage per cluster/namespaces/nodes/pods.
 
 ![Kubecost dashboard](../media/0-kubecost.png)
+<<<<<<< HEAD
 
 ### Tasks
 
 #### Create a cluster role bindings in case you have RBAC enabled
+=======
+>>>>>>> c61b92bf4116212f479a1523ebe0a6806105c7e1
 
 {% collapsible %}
 
